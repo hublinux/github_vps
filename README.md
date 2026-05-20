@@ -29,25 +29,38 @@ GitHub 基础设施，速度快到震惊
 👉 https://github.com/1061700625/github_vps
 
 Fork 仓库
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/mmbiz_png/qbCfqcice6mCVtWLLbFD4vyzuhypvVH9aoTQKwzpPESbjzZC5iaPY6sKfVgHwxdVd4ZRo4gOHeicr4Z3B7cNezoian3CRxHbhLA0We7X0J4Jh4g/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0" />
+</p>
 Fork 仓库
 第二步：进入 Codespaces 界面
 Fork 完成后，点击页面左上角的 ☰ 三条横线，切换到 Codespaces 标签页。
-
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/sz_mmbiz_png/qbCfqcice6mDbPkBFsH4ib0q7FrreJfHR9DWOLuobvoNMkNKiaEVxu79aibLVcgbTz11icqyxicKOYSYMqpn4sc56U57sjC0ZPeAh7Q0Nek5CeQyc/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1" />
+</p>
 切换 Codespaces
 切换 Codespaces
 第三步：新建 Codespace
 点击 "New codespace"（新建 Codespace）按钮。
 
 新建 Codespace
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/sz_mmbiz_png/qbCfqcice6mCW5ttZl4B5HZUiajx1VOY16zbnSeljqTKIyibv8XEVee6m7LCgDWfOCQL1HbVqMx7OgWicjZM3b7CicdoyBEo2w7c8mAm1WLSYATE/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2" />
+</p>
 新建 Codespace
 第四步：选择配置
 选择你刚才 Fork 的那个仓库，然后在下方配置中选择 4-Core（4核）的规格，性能更强，体验更丝滑！
 
 选择 4核配置
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/sz_mmbiz_png/qbCfqcice6mBldpfnrPa0rQBERsic8QvNm1sWsdLaV3Z8NGuPWfoOMU9M1uCPRmDGjEWmZrx5fHKtmWucWp4QGnvpR41Zkm9M9ocyqibXxkk80/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3" />
+</p>
 选择 4核配置
 第五步：启动 Win11 容器
 进入 Codespaces 后，底部会自动打开终端。输入以下命令：
-
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/sz_mmbiz_png/qbCfqcice6mB7Q5077TeShEga3fmggKsoVicQPYsYRmkrib1RlicVdcRvQ0aM240aicmzianwPicjHmyKZJUYqzwkMJnlicCAibQZpd2daDJVu5HibTsw/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4" />
+</p>
 bash start.sh
 执行 start.sh
 执行 start.sh
@@ -55,6 +68,9 @@ bash start.sh
 等待命令执行，当终端出现端口转发链接时，把鼠标放上去，稍等片刻会出现 "Open in Browser"（在浏览器中打开） 的提示，点击它！
 
 端口转发链接
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/mmbiz_png/qbCfqcice6mCQIOnwftep1MUVdQzzkJdyrGLcgTgxBze9qK44z0pK732DeSuticZia9UgydoEpiacdEcujgbPxaqb9WauX4qBTibYH4PtG8WacXs/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5" />
+</p>
 端口转发链接
 第七步：安装 Windows 11
 此时你会进入 Windows 11 的安装界面，接下来就是熟悉的装系统流程了。
@@ -62,15 +78,31 @@ bash start.sh
 ⚠️ 注意：这一步需要耐心等待，安装过程会比较久，可以去泡杯咖啡 ☕
 
 Win11 安装界面 1
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/sz_mmbiz_png/qbCfqcice6mAh2JkNMw9yQzDgPYv5NEqdCIMBwsDUIrOmfaSoUFtxpyekQz40icuhoUgBosjAQicwkcIuaKUne3EBKArzkVUiafQYTQwzuYEQ7k/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6" />
+</p>
+
 Win11 安装界面 1
+
+
+
 Win11 安装界面 2
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/sz_mmbiz_png/qbCfqcice6mAPJURZhqd1nHkfm5nIlnBAmUak8PduRkianq5SQAuSnglQibiaXEEZ0WNkQAExQC0BdIJVq0t2SepXHkY7MHTM412S1QgqzJiarlk/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7" />
+</p>
 Win11 安装界面 2
 Win11 安装中
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/sz_mmbiz_png/qbCfqcice6mDEicbHcNfELUlvicqago8WFiaQ1iaCXLlEsSicrlkuJbrO3QrkrDGMN0pCDEElyGqXRF6tdQLgQAIpFgd1UU0rKTeLQibwicVZjy7zBA/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8" />
+</p>
 Win11 安装中
 第八步：进入桌面，安装成功！
 当当当！看到熟悉的 Win11 桌面，你就成功了！
 
 Win11 桌面
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/sz_mmbiz_png/qbCfqcice6mDEicbHcNfELUlvicqago8WFiaQ1iaCXLlEsSicrlkuJbrO3QrkrDGMN0pCDEElyGqXRF6tdQLgQAIpFgd1UU0rKTeLQibwicVZjy7zBA/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8" />
+</p>
 Win11 桌面
 第九步：验货！测速 + 测硬盘 + 测 Copilot
 装好了当然要跑个分看看：
@@ -79,6 +111,9 @@ Win11 桌面
 • 网速测试：这速度真的震惊到我了，GitHub 的基础设施不是盖的！
 • Copilot AI：写代码、问问题，AI 随叫随到
 测速和 Copilot
+<p align="center">
+  <img width="512" alt="image" src="https://mmbiz.qpic.cn/mmbiz_png/qbCfqcice6mBRPEBdc0befjMjTze35oJGU8WFnEwHsKBIIKziaDyxnBz1cRcicZCO9Rb9ibp8HOroYuTXic5jVfEKtWichWI7kdcp0tNrZ5ib3Fkd0/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=10" />
+</p>
 测速和 Copilot
 第十步：手机也能玩！
 更骚的是，手机也能访问这台 Win11！
